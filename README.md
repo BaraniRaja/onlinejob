@@ -16,6 +16,7 @@ Online Job Portal is a web-based application developed using Java, Spring Boot, 
 📅 Application Tracking – Track job applications and statuses
 
 🛠 Tech Stack
+
 Layer	Technology
 Frontend	HTML, CSS, JavaScript (basic)
 Backend	Java, Spring Boot
