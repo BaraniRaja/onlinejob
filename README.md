@@ -18,9 +18,16 @@ Online Job Portal is a web-based application developed using Java, Spring Boot, 
 🛠 Tech Stack
 
 Layer	Technology
+
 Frontend	HTML, CSS, JavaScript (basic)
+
 Backend	Java, Spring Boot
+
 ORM	Hibernate
+
 Database	MySQL
+
 Tools/IDE	Eclipse, Git, GitHub
+
 Build Tool	Maven
+
